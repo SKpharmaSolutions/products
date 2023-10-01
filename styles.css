@@ -49,10 +49,10 @@ h6 {
   font-weight: bold;
   font-size: 24px;
   position: relative;
-background: url(images/Screenshot(763).png);
+background: url(Screenshot\ \(777\).png);
 border-radius: 50%;
-width: 150px;
-height: 100px;
+width: 120px;
+height: 120px;
 background-size: contain;
 background-repeat: no-repeat;
 }
@@ -61,7 +61,7 @@ background-repeat: no-repeat;
 
 /* Header with Parallax Effect */
 header.parallax-bg {
-  background-image: url("images/pexels-adonyi-gabor-1414651.jpg");
+  background-image: url("images/different\ chemi\ 1.png");
   background-size: cover;
   background-position: center;
   color: #fff;
@@ -108,7 +108,7 @@ section.hero h2 {
 
 /* Product Categories with Parallax Effect */
 section.parallax-bg {
-  background-image: url("images/vegetables-752153_1280.jpg");
+  background-image: url("images/Screenshot\ \(771\).png");
   background-size: cover;
   background-position: center;
   color: #fff;
@@ -296,7 +296,7 @@ section.services {
 }
 
 .services.parallax-bg {
-  background-image: url("images/pexels-adonyi-gabor-1414651.jpg");
+  background-image: url("images/different\ chemi\ 1.png");
   background-size: cover;
   background-position: center;
 }
@@ -328,7 +328,7 @@ section.testimonials {
 }
 
 .testimonials.parallax-bg {
-  background-image: url("images/pexels-adonyi-gabor-1414651.jpg");
+  background-image: url("images/different\ chemi\ 1.png");
   background-size: cover;
   background-position: center;
 }
@@ -438,7 +438,7 @@ html {
 .navbar .btn {
   font-size: 16px;
 
-  background-color: #359548;
+  background-color: rgb(121, 60, 60);
   border: none;
   color: #fff;
   transition: background-color 0.3s ease;
@@ -589,7 +589,7 @@ section#featured-products {
   object-fit: cover;
   margin-right: 10px;
   border-radius: 50%;
-  opacity: 0.8;
+  /* opacity: 0.8; */
 }
 .quantity {
   display: flex;
